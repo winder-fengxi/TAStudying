@@ -9,21 +9,23 @@
 - [ ] 三维建模  
 - [ ] 三维动画  
 - [ ] 美术制作流程  
+  
 **程序**  
 - [ ] 数据结构、算法  
 - [ ] 渲染和客户端代码 [Catlike Coding](https://catlikecoding.com)  
-- [ ] java
-- [ ] python
+- [ ] java  
+- [ ] python  
+
 **渲染**
 - [ ] Games101  
 - [ ] Unity Shader入门精要(书)  
 - [ ] gpu相关  
+
 **引擎工具**
 - [ ] Unity  
 - [ ] UE  
 - [ ] Ps  
-- [ ] Maya
-  
+- [ ] Maya  
 
   ![框架总纲图片](/Photos/Studying.jpg "总纲")
 
